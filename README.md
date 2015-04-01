@@ -90,7 +90,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * http://java-monitor.com/ - Free monitoring of JVM's and uptime
   * http://sematext.com/spm - Free for 24h metrics, unlimited number of servers, 10 custom metrics, 500K custom metrics data points, unlimited dashboards, users, etc.
   * https://sealion.com/ - Free up to 2 servers, 3 days data retention, graphs and raw command output history (`top`, `ps`, `ifconfig`, `netstat`, `iostat`, `free`, custom, etc.)
-  * https://www.stathat.com - Get started with ten stats for free, no expiration.
 
 ## Crash / Exception handling
   * https://rollbar.com/ - Exception and error monitoring, free plan - 5000 errors/month, unlimited users, 30 days retention.
@@ -101,8 +100,6 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Search
 
   * https://swiftype.com – hosted search solution (API and crawler). Free for a single search engine with up to 1000 documents. Free upgrade to Premuim level for open-source projects.
-  * https://bonsai.io - Free 1GB memory and 1GB storage.
-  * http://www.searchly.com - Free 2 Indices and 5MB storage.
 
 ## Email
 
@@ -129,6 +126,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://appharbor.com/ - A .Net PaaS that provides 1 free worker
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
   * https://www.firebase.com/ - Build realtime apps, free plan has 50 Max Connections, 5 GB Data Transfer, 100 MB Data Storage.
+  * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
 1 GB Hosting Storage and 100 GB Hosting Transfer.
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
   * https://www.openshift.com/ - RedHat OpenShift offers 3 free hosted apps
